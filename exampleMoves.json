@@ -1,0 +1,14 @@
+[
+   {
+      "type": "RESET",
+      "data": "A1"
+   },
+   {
+      "type": "MOVE",
+      "data": "C5"
+   },
+   {
+      "type": "MOVE",
+      "data": "E1"
+   }
+]
